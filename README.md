@@ -1,6 +1,10 @@
 
 ### snaptime
 
+.. note::
+    This is a fork of `snaptime <https://github.com/zartstrom/snaptime>`_ to workaround an `issue with setuptools <https://github.com/zartstrom/snaptime/pull/6>`_.
+
+
 The snaptime package is about transforming timestamps simply.
 
 It is inspired by splunks relative time modifiers, see their docs [here][splunk-docs].
